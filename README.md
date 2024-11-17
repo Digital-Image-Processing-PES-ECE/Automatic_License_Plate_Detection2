@@ -22,6 +22,24 @@ Automatic License Plate Detection is an innovative application of image processi
 #### Dataset - 
 Link and/or Explanation if generated
 
+#### OUTPUTS:
+
+<img width="467" alt="image" src="https://github.com/user-attachments/assets/2d14dc8a-6f1a-4b2f-99a9-6cf2052fc194">
+
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/9f9ea1db-3497-4200-ac47-2c22825f00a7"> 
+
+<img width="462" alt="image" src="https://github.com/user-attachments/assets/f13b996d-037d-4854-a1fb-1ba7a3c5e8c3">
+
+<img width="517" alt="image" src="https://github.com/user-attachments/assets/b6bd6171-b737-46a8-936c-a387c254d6eb">
+
+<img width="782" alt="image" src="https://github.com/user-attachments/assets/65efeff4-a408-4579-bb32-bcb16a8fbc11">
+
+
+
+
+
+
+
 #### Novelty - 
 1. - Identifying and reading license plates under unfavorable weather conditons
 2. -Enhanced Accuracy: The use of sharpening and morphological processing improves OCR accuracy, even in noisy or low-quality images.
